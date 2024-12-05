@@ -1,4 +1,4 @@
-#include "SimpleObserver.h"
+#include "ElevatorObserver.h"
 
 ECSimpleGraphicObserver :: ECSimpleGraphicObserver( ECGraphicViewImp &viewIn ) : view(viewIn), 
     fIsSpaceBarPressed(false), 
