@@ -1,5 +1,5 @@
-#ifndef SimpleObserver_h
-#define SimpleObserver_h
+#ifndef ElevatorObserver_h
+#define ElevatorObserver_h
 
 #include "ECObserver.h"
 #include "ECGraphicViewImp.h"
